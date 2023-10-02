@@ -1,1 +1,1 @@
-This is readme file for a local repository
+This is readme file for a local repositor
